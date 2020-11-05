@@ -1,4 +1,5 @@
-# Michael "dotexe" Shipley's build of DWM (Forked from lukesmithxyz/dwm)
+# Michael "dotexe" Shipley's build of DWM
+Forked from lukesmithxyz/dwm
 
 ## FAQ
 
