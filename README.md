@@ -5,7 +5,7 @@
 
 > What are the bindings?
 
-This is suckless, the source code is the documentation! Check out [config.h](config.h).
+This is suckless, bro! The source code is the documentation. Check out [config.h](config.h).
 
 ## Patches and features
 
