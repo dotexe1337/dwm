@@ -20,6 +20,7 @@ This is suckless, bro! The source code is the documentation. Check out [config.h
 - vanitygaps: Gaps allowed across all layouts.
 - swallow patch: if a program run from a terminal would make it inoperable, it temporarily takes its place to save space.
 - System tray: Adds a system tray, something that the DWM bar should have had in the first place.
+- Per-tagpatch: Allows each tag to have its own separate layout
 
 ## Please install `libxft-bgra`!
 
